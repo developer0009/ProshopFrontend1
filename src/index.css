@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.store-main {
+  min-height: 80vh;
+}
+.card-title {
+  text-decoration: dashed;
+}
